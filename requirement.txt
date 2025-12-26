@@ -1,0 +1,8 @@
+cd backend:{
+  npm init -y;
+  npm i express;
+  npm i dotenv mongoose;
+}
+cd frontend: {
+  npm create vite@latest;
+}
